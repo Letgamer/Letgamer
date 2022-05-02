@@ -14,6 +14,7 @@
 🧑‍🎓mainly server administrator (specialized in Linux and OPNsense)
 
 Operating systems: Arch Linux, Windows 11, OPNsense, Proxmox, Unraid
+
 Services: nginx, apache2, mysql, mariadb, docker, 3cx, wireguard, openvpn, php, php-fpm, grafana, influxdb and prometheus
 
 Languages: Python, PHP, HTML, CSS and JS
