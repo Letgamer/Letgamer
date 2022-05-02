@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alexstephan005@protonmail.com**
 
-<h2 About me🚀</h2>
+<h3 align="left">About me🚀</h3>
 
 🧑‍🎓mainly server administrator (specialized in Linux and OPNsense). I recently started app dev in Flutter/dart. I can code in Python, PHP, HTML, CSS and JS.
 
