@@ -1,5 +1,6 @@
 ### Hi there 👋
-##About me🚀
+About me🚀
+
 I am Alex Stephan, 16 years old and I live in Germany
 
 🧑‍🎓mainly server administrator (specialized in Linux and OPNsense). I recently started app dev in Flutter/dart.
