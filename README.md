@@ -11,7 +11,11 @@
 
 <h3 align="left">About me🚀</h3>
 
-🧑‍🎓mainly server administrator (specialized in Linux and OPNsense). I recently started app dev in Flutter/dart. I can code in Python, PHP, HTML, CSS and JS.
+🧑‍🎓mainly server administrator (specialized in Linux and OPNsense)
+Operating systems: Arch Linux, Windows 11, OPNsense, Proxmox, Unraid
+Services: nginx, apache2, mysql, mariadb, docker, 3cx, wireguard, openvpn, php, php-fpm and redis
+
+Languages: Python, PHP, HTML, CSS and JS
 
 🧑‍💻Besides coding I am an expert in Android Rooting and I am a privacy and open source activist
 
