@@ -11,7 +11,7 @@
 
 <h3 align="left">About me🚀</h3>
 
-🧑‍🎓mainly server administrator (specialized in Linux and OPNsense)
+🧑‍🎓mainly system administrator (specialized in Linux and Routing)
 
 Operating systems: Arch Linux, Windows 11, OPNsense, Proxmox, Unraid
 
