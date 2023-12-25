@@ -17,7 +17,7 @@ Operating systems: Arch Linux, Windows 11, OPNsense, Proxmox, Unraid
 
 Services: nginx, apache2, mysql, mariadb, docker, 3cx, wireguard, openvpn, php, php-fpm, grafana, influxdb and prometheus
 
-Languages: Python, PHP, HTML, CSS and JS
+Languages: C++, Python, PHP, HTML, CSS and JS
 
 🧑‍💻Besides coding I am an expert in Android Rooting and I am a privacy and open source activist
 
