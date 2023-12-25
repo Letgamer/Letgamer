@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Stephan</h1>
-<h3 align="center">A 18 year old system admin from Germany</h3>
+<h3 align="center">A 18 year old cyber security student from Germany🎓</h3>
 
 <img class="image-align-left" src="https://komarev.com/ghpvc/?username=letgamer&label=Profile%20views&color=0e75b6&style=flat" alt="letgamer" /> <img class="image-align-left" src="https://img.shields.io/badge/I%20use-Arch%20btw-orange" alt="letgamer" />
 
