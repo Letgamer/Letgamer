@@ -3,6 +3,8 @@
 
 <img class="image-align-left" src="https://komarev.com/ghpvc/?username=letgamer&label=Profile%20views&color=0e75b6&style=flat" alt="letgamer" /> <img class="image-align-left" src="https://img.shields.io/badge/I%20use-Arch%20btw-orange" alt="letgamer" />
 
+[ ![letgamer](https://www.hackthebox.eu/badge/image/342109)](https://www.hackthebox.eu/home/users/profile/342109)
+
 - 🔭 I’m currently hacking on HackTheBox
 
 - 📫 How to reach me **alexstephan005@protonmail.com**
