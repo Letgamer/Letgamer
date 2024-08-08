@@ -6,7 +6,7 @@
 <img class="image-align-left" src="https://komarev.com/ghpvc/?username=letgamer&label=Profile%20views&color=0e75b6&style=flat" alt="letgamer" /> <img class="image-align-left" src="https://img.shields.io/badge/I%20use-Arch%20btw-orange" alt="letgamer" /> 
 
 [ ![letgamer](https://www.hackthebox.eu/badge/image/342109)](https://app.hackthebox.com/profile/342109)
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+[ ![letgamer](https://tryhackme-badges.s3.amazonaws.com/letgamer.png)](https://tryhackme.com/p/letgamer)
 
 - 🔭 I’m currently hacking on HackTheBox and TryHackMe
 
