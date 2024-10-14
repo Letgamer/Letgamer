@@ -11,8 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
         with:
           # Replace with your tryhackme username
-          username: "letgamer"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          username: 'letgamer'
+          user_id: '128870'
+          image_path: './assets/tryhackme-badge.png'
+          GITHUB_TOKEN: ${{secrets.MY_GITHUB_TOKEN}}
