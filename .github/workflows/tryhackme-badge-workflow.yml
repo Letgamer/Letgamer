@@ -13,8 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
         with:
-          committer_username: 'letgamer'
-          committer_email: 'alexstephan005@gmail.com'
           username: 'letgamer'
           user_id: '128870'
           image_path: './assets/tryhackme-badge.png'
