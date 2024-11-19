@@ -7,10 +7,10 @@
 
 <!-- Adjust the size with HTML -->
 <a href="https://app.hackthebox.com/profile/342109">
-  <img src="https://www.hackthebox.eu/badge/image/342109" alt="HTB Badge" style="width: 24%; height: auto;"/>
+  <img src="https://www.hackthebox.eu/badge/image/342109" alt="HTB Badge" style="width: 250px; height: auto;"/>
 </a>
 <a href="https://tryhackme.com/p/letgamer">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/letgamer.png?cachebuster=1" alt="THM Badge" style="width: 21%; height: auto;"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/letgamer.png?cachebuster=1" alt="THM Badge" style="width: 215px; height: auto;"/>
 </a>
 
 - 🔭 I’m currently hacking on HackTheBox and TryHackMe
