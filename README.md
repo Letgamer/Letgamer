@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alex Stephan</h1>
-<h3 align="center">A 19 year old cyber security student from Germany🎓</h3>
+# Hi 👋, I'm Alex Stephan  
+<img align="left" width="300" src="https://github.com/Letgamer/Letgamer/blob/main/image.png">
 
+### A 19-year-old cyber security student from Germany 🎓
+
+  
 <img class="image-align-left" src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="letgamer" /> <img class="image-align-left" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="letgamer" />
 
 <img class="image-align-left" src="https://komarev.com/ghpvc/?username=letgamer&label=Profile%20views&color=0e75b6&style=flat" alt="letgamer" /> <img class="image-align-left" src="https://img.shields.io/badge/I%20use-Arch%20btw-orange" alt="letgamer" /> 
@@ -13,9 +16,15 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/letgamer.png?cachebuster=1" alt="THM Badge" style="width: 215px; height: auto;"/>
 </a>
 
-- 🔭 I’m currently hacking on HackTheBox and TryHackMe
+🔭 I’m currently hacking on HackTheBox and TryHackMe
 
-- 📫 How to reach me **alexstephan005@protonmail.com**
+📫 How to reach me **alexstephan005@protonmail.com**
+
+🦀 I build a Password Manager Backend called [rsPass](https://github.com/Letgamer/rsPass)
+
+🏆 I won the Potsdam Cyber Games [CTF](https://potsdam-cyber-games.de/)!
+
+<br/><br/>
 
 <h3 align="left">About me🚀</h3>
 
