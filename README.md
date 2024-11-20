@@ -1,7 +1,7 @@
 # Hi 👋, I'm Alex Stephan  
 <img align="left" width="300" src="https://github.com/Letgamer/Letgamer/blob/main/image.png">
 
-### A 19-year-old cyber security student from Germany 🎓
+<h3 align="center">A 19-year-old cyber security student from Germany 🎓</h3>
 
   
 <img class="image-align-left" src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="letgamer" /> <img class="image-align-left" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="letgamer" />
