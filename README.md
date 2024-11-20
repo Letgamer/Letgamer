@@ -1,8 +1,8 @@
 # Hi 👋, I'm Alex Stephan  
-<img align="left" width="255" src="https://github.com/Letgamer/Letgamer/blob/main/image.png">
+<img align="left" width="285" src="https://github.com/Letgamer/Letgamer/blob/main/image.png">
 
 <h3 align="center">A 19-year-old cyber security student from Germany 🎓</h3>
-
+<br>
   
 <img class="image-align-left" src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="letgamer" /> <img class="image-align-left" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="letgamer" />
 
@@ -15,6 +15,7 @@
 <a href="https://tryhackme.com/p/letgamer">
   <img src="https://tryhackme-badges.s3.amazonaws.com/letgamer.png?cachebuster=1" alt="THM Badge" style="width: 215px; height: auto;"/>
 </a>
+<br><br>
 
 🔭 I’m currently hacking on HackTheBox and TryHackMe
 
