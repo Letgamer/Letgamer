@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alex Stephan  
-<img align="left" width="300" src="https://github.com/Letgamer/Letgamer/blob/main/image.png">
+<img align="left" width="260" src="https://github.com/Letgamer/Letgamer/blob/main/image.png">
 
 <h3 align="center">A 19-year-old cyber security student from Germany 🎓</h3>
 
@@ -23,8 +23,6 @@
 🦀 I build a Password Manager Backend called [rsPass](https://github.com/Letgamer/rsPass)
 
 🏆 I won the Potsdam Cyber Games [CTF](https://potsdam-cyber-games.de/)!
-
-<br/><br/>
 
 <h3 align="left">About me🚀</h3>
 
