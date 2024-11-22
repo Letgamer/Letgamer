@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alex Stephan  
-<img align="left" width="29%" src="https://github.com/Letgamer/Letgamer/blob/main/image.png">
+<img align="left" width="35%" src="https://github.com/Letgamer/Letgamer/blob/main/image.png">
 
 <h3 align="center">A 19-year-old cyber security student from Germany 🎓</h3>
 <br>
