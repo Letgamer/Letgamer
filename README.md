@@ -13,7 +13,7 @@
   <img src="https://www.hackthebox.eu/badge/image/342109" alt="HTB Badge" style="width: 250px; height: auto;"/>
 </a>
 <a href="https://tryhackme.com/p/letgamer">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/letgamer.png?cachebuster=1" alt="THM Badge" style="width: 215px; height: auto;"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/letgamer.png?cachebuster=2" alt="THM Badge" style="width: 215px; height: auto;"/>
 </a>
 <br><br>
 
